@@ -213,6 +213,7 @@ export const clients: { name: string; logo: StaticImageData }[] = [
   { name: "ME Energy", logo: meEnergy },
   { name: "Rakhoh Industries (Pune)", logo: rakhoh },
   { name: "SAEL Engineering (Ferozepur)", logo: sael },
+  { name: "Thermo Fab Engineers", logo: thermoFab },
 ];
 
 /* ----------------------------- Testimonials ----------------------------- */
